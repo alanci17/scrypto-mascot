@@ -55,7 +55,7 @@ known as "alacran azul", are implemented in different countries as deemed capabl
 # 
 -----------------------------------------------------------------------
 ![](./readme_img/fluo_scorp.png)
-[![Credit](https://img.shields.io/badge/Pic_Credit-Leon-Pauleikhoff-blue.svg)](https://unsplash.com/@lebalu) 
+[![Credit](https://img.shields.io/badge/Pic Credit-Leon Pauleikhoff-blue.svg)](https://unsplash.com/@lebalu) 
 
 # Scorpions glow in the dark
 
