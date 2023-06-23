@@ -4,7 +4,8 @@
 # Scrypto's mascot Stan prop
 # 
 
-![](./img/greeting_stan.png)
+![](./readme_img/greeting_stan_500x500.png)
+![](./readme_img/stan_500x500.png)
 
 -------------------------------------------------------------------------------------------
 ## Index  
@@ -52,7 +53,7 @@ known as "alacran azul", are implemented in different countries as deemed capabl
 ## Color 
 # 
 -----------------------------------------------------------------------
-![](./readme_img/moonlight_scorp.jpg)
+![](./readme_img/moonlight_scorp_750x500.jpg)
 [![Credit](https://img.shields.io/badge/Pic%20Credit-Leon%20Pauleikhoff-blue.svg)](https://unsplash.com/@lebalu)
 
 ### Scorpions glow in the dark
@@ -61,7 +62,7 @@ If you take a walk in the desert on a cloudless full moon night, you may notice 
 breaking the dark around them, same way Scrypto may turn on the light in a dark landscape of weak smart contract programming languages we're sadly 
 dealing with nowadays. 
 
-![](./readme_img/color_wheel.png)
+![](./readme_img/color_wheel_500x500.png)
 
 ### Complementary hues
 
