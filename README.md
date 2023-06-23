@@ -4,8 +4,7 @@
 # Scrypto's mascot Stan prop
 # 
 
-![](./readme_img/greeting_stan_500x500.png)
-![](./readme_img/stan_500x500.png)
+![](./readme_img/stan_twin_500x1000.png)
 
 -------------------------------------------------------------------------------------------
 ## Index  
@@ -62,7 +61,9 @@ If you take a walk in the desert on a cloudless full moon night, you may notice 
 breaking the dark around them, same way Scrypto may turn on the light in a dark landscape of weak smart contract programming languages we're sadly 
 dealing with nowadays. 
 
-![](./readme_img/color_wheel_500x500.png)
+
+
+![](./readme_img/color_wheel_500x750.png)
 
 ### Complementary hues
 
