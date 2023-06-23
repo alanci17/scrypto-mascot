@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-CC0_Universal_1.0-blue.svg)](https://www.creativecommons.org/publicdomain/zero/1.0/)
 
 #
-# Scrypto's mascot Stan prop
+# Scrypto mascot Stan prop
 # 
 
 ![](./readme_img/stan_twin_500x1000.png)
