@@ -1,13 +1,13 @@
 [![License](https://img.shields.io/badge/License-CC0_Universal_1.0-blue.svg)](https://www.creativecommons.org/publicdomain/zero/1.0/)
 
 #
-### Scrypto's mascot Stan prop
+# Scrypto's mascot Stan prop
 # 
 
 ![](./img/greeting_stan.png)
 
 -------------------------------------------------------------------------------------------
-### Index  
+## Index  
 -------------------------------------------------------------------------------------------	
 >
 > [Part_1](#part_1) . Premise
@@ -21,10 +21,9 @@
 > [Part_5](#part_5) . Content
 
 #
-### Premise 
+## Premise 
 # 
 -----------------------------------------------------------------------  
-
 As emerged from a quick and informal survey on Twitter, launched by Beem(https://github.com/beemdvp), elected choice among Radix community, 
 represented by a small number of participants, was clearly oriented towards the scorpion, as mascot for the Scrypto programming language.
 The scorpion is the protagonist of one of the first NFT collections as well as one of the most popular, to date, of the Radix ecosystem, 
@@ -35,10 +34,9 @@ to have been appreciated at publication's time.
 [Back Up](#index)
 
 #
-### Scorpion 
+## Scorpion 
 # 
 ----------------------------------------------------------------------- 
-
 In a cultural landscape, the scorpion is symbol of change, an inner driving force that pushes us beyond our limits and boundaries.
 Many cultures consider it an animal with a dual function: it is capable of killing with the lethal venom it releases from its tail, 
 but it can also cure thanks to the healing power of the poison itself. 
@@ -51,13 +49,13 @@ known as "alacran azul", are implemented in different countries as deemed capabl
 [Back Up](#index)
 
 #
-### Color 
+## Color 
 # 
 -----------------------------------------------------------------------
 ![](./readme_img/moonlight_scorp.jpg)
 [![Credit](https://img.shields.io/badge/Pic%20Credit-Leon%20Pauleikhoff-blue.svg)](https://unsplash.com/@lebalu)
 
-# Scorpions glow in the dark
+### Scorpions glow in the dark
 
 If you take a walk in the desert on a cloudless full moon night, you may notice the UV rays from the moonlight make scorpions glow a cerulean blue hue, 
 breaking the dark around them, same way Scrypto may turn on the light in a dark landscape of weak smart contract programming languages we're sadly 
@@ -65,7 +63,7 @@ dealing with nowadays.
 
 ![](./readme_img/color_wheel.png)
 
-# Complementary hues
+### Complementary hues
 
 Scrypto exploits the underlying Rust environment for its functioning, thus enhancing its peculiarities at the same time.
 Rust takes its name from an oxidative stage of iron characterized by a warm vermilion/red-orange hue, opt for a complementary color seemed 
@@ -79,10 +77,9 @@ they enhance shining bright from each other, resembling Scrypto whom is designed
 [Back Up](#index)
 
 #
-### Name 
+## Name 
 # 
 ----------------------------------------------------------------------- 
-
 The name Stan emerged from the aforementioned Twitter's survey as a tribute to the author of the overmentioned NFT collection.
 However the assonance with the term "stain" still surprisingly sends me back to the Rust universe again.
 
@@ -90,10 +87,9 @@ However the assonance with the term "stain" still surprisingly sends me back to 
 [Back Up](#index)
 
 #
-### Content 
+## Content 
 # 
 ----------------------------------------------------------------------- 
-
 Repo provides some HD images of Stan portrayed in different attitudes as well as related icons in different formats.
 
 
