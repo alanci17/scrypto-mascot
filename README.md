@@ -72,7 +72,7 @@ Rust takes its name from an oxidative stage of iron characterized by a warm verm
 like a natural choice to me. Still playing around with name meaning, I thinked at sulphate of copper, an oxidative stadium of the latter metal, 
 characterized, like some of his others basic carbonates, by a cold Cerulean blue/teal hue, as a viable choice. 
 Copper and iron, by the way, also form an electrochemical couple.
-Cerulean blue / teal together with vermilion / red orange form a complementary colors couple, once mutually leveraged by placing them side by side 
+As said cerulean blue / teal together with vermilion / red orange form a complementary colors couple, once mutually leveraged by placing them side by side 
 they enhance shining bright from each other, resembling Scrypto whom is designed to shine leveraging Rust.
 
 
